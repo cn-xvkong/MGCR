@@ -1,6 +1,9 @@
 # MGCR-Net:Multimodal Graph-Conditioned Vision-Language Reconstruction Network for Remote Sensing Change Detection
  If you like our project, please give us a star ⭐.
 
+![image](https://github.com/user-attachments/assets/d72bba4b-51ee-4bc4-a53d-9ee1437264bb)
+
+
 ![image](https://github.com/user-attachments/assets/6e869738-11a3-49c5-9aba-fac1296f078a)
 
  
