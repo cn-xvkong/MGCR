@@ -15,8 +15,6 @@ pip install -r requirements.txt
 ## 🔑	Multimodel Text Generation With LLaVA
 Use “text_generation.py” to generate text based on the image, and then use “text_optimize.py” to refine the text in order to produce relevant multimodal textual data.
 
-## ✏️Training
-We will update and refine the code after integrating it in future work.
 
 # 📜	Citation
 ```
